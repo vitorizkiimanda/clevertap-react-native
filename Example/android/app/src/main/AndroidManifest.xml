@@ -34,8 +34,8 @@
                 <action android:name="com.google.firebase.MESSAGING_EVENT"/>
             </intent-filter>
         </service>
-        <meta-data android:name="CLEVERTAP_ACCOUNT_ID" android:value="88R-R54-5Z6Z" />
-        <meta-data android:name="CLEVERTAP_TOKEN" android:value="452-2bb" />
+        <meta-data android:name="CLEVERTAP_ACCOUNT_ID" android:value="TEST-ZW8-65K-9W6Z" />
+        <meta-data android:name="CLEVERTAP_TOKEN" android:value="TEST-356-b01" />
         <meta-data android:name="CLEVERTAP_USE_GOOGLE_AD_ID" android:value="1"/>
     </application>
 
